@@ -1,15 +1,15 @@
 # Consejos para tu primer concurso
-0. **Vamos para divertirnos** y aprender lo que es trabajar en un ambiente de estres con un equipo multi-talento. Puedes aprender Organizacion orientada a objetivos,
-Gestion del tiempo, Analisis a priori de programas, Velocidad de Programacion y afianzar el uso de estructuras y metodologias.
-
+0. **Vamos para divertirnos** y aprender lo que es trabajar en un ambiente de estres con un equipo multi-talento. Puedes aprender Organizacion orientada a objetivos, Gestion del tiempo, Trabajo en Equipo, Analisis a priori de programas, Velocidad y Afianzar el uso de estructuras y metodologias.
 1. Coge la plantilla, leela y comprendela. Es recomendable que la leas junto a la guia del concurso de Programame para que puedas ir 
 relacionando tipos de entrada, forma de entrada, etc. 
-2. Prueba el [problema 116][[https://www.aceptaelreto.com/problem/statement.php?id=116]  en Acepta el reto usando la plantilla.
+
+2. Prueba el [problema 116](https://www.aceptaelreto.com/problem/statement.php?id=116) en Acepta el reto usando la plantilla.
+
 3. Prueba haciendo mas problemas de Acepta el reto. Es recomendable hacerlo por categorias y tocar un poco de todas.
- * Empieza con categorias sencillas, como [Construcciones de programacion] [https://www.aceptaelreto.com/problems/categories.php/?cat=3] -> Condicionales o Expresiones.
-  * Toca un poco de cada tipo. En un concurso es normal que encuentres varios problemas con 1 o 2 por tipo de problema.
-  * Dias anteriores al concurso empieza a probar hacer lo de las categorias concurso. Coge un concurso antiguo, y empieza a hacerlos. Cronometrate.
-  * Recuerda hacer todo lo que puedas en equipo. No tiene nada que ver con hacerlo solo. Dominar la comunicacion con tu equipo y el reparto de tareas es primordial.
+    * Empieza con categorias sencillas, como [Construcciones de programacion](https://www.aceptaelreto.com/problems/categories.php/?cat=3) -> Condicionales o Expresiones.
+    * Toca un poco de cada tipo. En un concurso es normal que encuentres varios problemas con 1 o 2 por tipo de problema.
+    * Dias anteriores al concurso empieza a probar hacer lo de las categorias concurso. Coge un concurso antiguo, y empieza a hacerlos.
+    * Recuerda hacer todo lo que puedas en equipo. No tiene nada que ver con hacerlo solo. Dominar la comunicacion con tu equipo y el reparto de tareas es primordial.
 4. Es muy normal que aun con la plantilla tengas diversos problemas. Lo mas critico es **coger experiencia** haciendo problemas en
     acepta el reto para conocer que causas son mas probables que te den errores. Una relacion la tienes aqui pero aprenderas mas
     segun te enfrentes a ellos y los arregles.
@@ -17,7 +17,7 @@ relacionando tipos de entrada, forma de entrada, etc.
       * Usa int y float siempre que la memoria no sea un problema. No hace falta byte o shorts.
       * Lo mismo con los objetos (no te hace falta StringBuffer, te vale String). 
       * En todo caso lee muy bien el tamaño de los datos de entrada. Hay problemas hechos para que un numero no te quepa en un long, o una linea de texto en un string.
-      * El flujo de entrada en Java DEBE SER un BufferedReader, *NUNCA UN SCANNER*. Te dará TLE. [Mas info] [http://stackoverflow.com/questions/2231369/scanner-vs-bufferedreader]
+      * El flujo de entrada en Java DEBE SER un BufferedReader, *NUNCA UN SCANNER*. Te dará TLE. [Mas info](http://stackoverflow.com/questions/2231369/scanner-vs-bufferedreader)
     * CE - * Compilation Error * - Si sigues la plantilla y te aseguras que el nombre de la clase es el mismo que el archivo, cualquier CE posible son los mismos errores que te dara tu entorno de desarrollo.
     * RTE - *Run-Time Error* - Pesadilla 1: PUede ser por MIL Causas. La experiencia practicando en Acepta el reto te ayudará a afrontarlos.
       * Comprueba que el algoritmo este bien y los bucles se recorran correctamente debugeando la aplicacion.
@@ -41,7 +41,7 @@ relacionando tipos de entrada, forma de entrada, etc.
         * Comprueba que el espaciado, máyusculas y minúsculas, b y v, m y n. Generalmente son problemas de formato u ortografía.
         * Pueden ser un RTE enmascarado que sin embargo no ha explotado y ha ido por un camino no previsto. Revisa el algoritmo.
           * Refactorizar y ordenar el algoritmo ayuda enormemente.
-  5. **LLEGA EL DÍA DEL CONCURSO**
+5. **LLEGA EL DÍA DEL CONCURSO**
     * Duerme bien el dia anterior y alimentate bien durante todo el dia. Evita las bebidas energéticas y, como mucho, tomalas durante el concurso.
     * Todo el mundo nos ponemos nerviosos. Antes de empezar, haz algún ejercicio de relajacion si eres especialmente propenso a los nervios.
     * Cuando te den los enunciados, leelos todos con una lectura rápida. Localiza los más faciles, repartelos y hazlos tan pronto como sea posible.
