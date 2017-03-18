@@ -7,12 +7,12 @@ Repositorio publico creado para organizar y compartir recursos utiles de cara a 
 
 ## Cosas por hacer
 
-[X] README
-[X] Consejos para la primera vez
-[X] Plantilla Java
-[ ] Plantilla C
-[ ] Plantilla C++
-[ ] Algoritmos de decision
-[ ] Algoritmos de estructuras y matrices
-[ ] Algoritmos matemáticos
-[X] Compartirlo por Twitter
+- [X] README
+- [X] Consejos para la primera vez
+- [X] Plantilla Java 
+- [ ] Plantilla C
+- [ ] Plantilla C++
+- [ ] Algoritmos de decision
+- [ ] Algoritmos de estructuras y matrices
+- [ ] Algoritmos matemáticos
+- [X] Compartirlo por Twitter
