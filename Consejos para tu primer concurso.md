@@ -15,8 +15,8 @@ relacionando tipos de entrada, forma de entrada, etc.
     segun te enfrentes a ellos y los arregles.
     * **Mucho ojo con los tipos de dato**
       * Usa int y float siempre que la memoria no sea un problema. No hace falta byte o shorts.
-      * Lo mismo con los objetos (no te hace falta StringBuffer, te vale String). 
-      * En todo caso lee muy bien el tamaño de los datos de entrada. Hay problemas hechos para que un numero no te quepa en un long, o una linea de texto en un string.
+      * Lo mismo con los objetos (no te hace falta StringBuffer, te vale String Si te comes TLE o MLE, entonces tira de StringBuffer y StringTokenizer para cortar tiempos/memoria). 
+      * En todo caso lee muy bien el tamaño de los datos de entrada. Hay problemas hechos para que un numero no te quepa en un long, o una linea de texto en un string.split().
       * El flujo de entrada en Java DEBE SER un BufferedReader, *NUNCA UN SCANNER*. Te dará TLE. [Mas info](http://stackoverflow.com/questions/2231369/scanner-vs-bufferedreader)
     * CE - * Compilation Error * - Si sigues la plantilla y te aseguras que el nombre de la clase es el mismo que el archivo, cualquier CE posible son los mismos errores que te dara tu entorno de desarrollo.
     * RTE - *Run-Time Error* - Pesadilla 1: PUede ser por MIL Causas. La experiencia practicando en Acepta el reto te ayudará a afrontarlos.
